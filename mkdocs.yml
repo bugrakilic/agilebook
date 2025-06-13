@@ -1,0 +1,68 @@
+site_name: Agilebook
+site_description: Agile and Scrum knowledge base
+site_author: Bugra Kilic
+site_url: https://bugrakilic.github.io/agilebook
+theme:
+  name: material
+  logo: images/agilebook.png
+  favicon: images/agilebook.png
+  font: 
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Introduction:
+      - What is Agile?: 1.1-what-is-agile.md
+      - What is Scrum?: 1.2-what-is-scrum.md
+      - Common Agile Methodologies: 1.3-common-agile-methodologies.md
+      - Agile Manifesto Principles: 1.4-agile-manifesto-principles.md
+
+  - Scrum Team:
+      - Scrum Team Overview: 2.1-scrum-team-overview.md
+      - Product Owner Role: 2.2-product-owner-role.md
+      - Scrum Master Role: 2.3-scrum-master-role.md
+      - Development Team Role: 2.4-development-team-role.md
+
+  - Scrum Events:
+      - Sprint Planning: 3.1-sprint-planning.md
+      - Daily Scrum: 3.2-daily-scrum.md
+      - Sprint Review: 3.3-sprint-review.md
+      - Sprint Retrospective: 3.4-sprint-retrospective.md
+
+  - Scrum Artifacts:
+      - Product Backlog: 4.1-product-backlog.md
+      - Sprint Backlog: 4.2-sprint-backlog.md
+      - Increment: 4.3-increment.md
+
+  - Agile Manifesto:
+      - Manifesto Overview: 5.1-agile-manifesto-overview.md
+      - The 4 Agile Values: 5.2-the-4-agile-values.md
+      - The 12 Agile Principles: 5.3-the-12-agile-principles.md
+
+  - Agile Practices:
+      - User Stories: 6.1-user-stories.md
+      - Estimation & Story Points: 6.2-estimation-story-points.md
+      - Velocity: 6.3-velocity.md
+      - Definition of Done: 6.4-definition-of-done.md
+      - Continuous Integration & Delivery: 6.5-continuous-integration-delivery.md
+
+  - Agile Metrics:
+      - Burndown Chart: 7.1-burndown-chart.md
+      - Burnup Chart: 7.2-burnup-chart.md
+      - Cumulative Flow Diagram: 7.3-cumulative-flow-diagram.md
+      - Lead Time vs Cycle Time: 7.4-lead-time-cycle-time.md
+      - Retrospective Metrics: 7.5-retrospective-metrics.md
+
