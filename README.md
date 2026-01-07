@@ -2,4 +2,4 @@ The **Agilebook** is your comprehensive resource for understanding and applying 
 
 *Built with [MkDocs](https://www.mkdocs.org) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.*
 
-*© 2025 [Bugra Kilic](https://bugrakilic.net)*
+*© 2026 [Bugra Kilic](https://bugrakilic.net)*
