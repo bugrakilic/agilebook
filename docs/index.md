@@ -54,4 +54,4 @@ Use the navigation sidebar to explore each section, or jump directly to the topi
 
 *Built with [MkDocs](https://www.mkdocs.org) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.*
 
-*© 2025 [Bugra Kilic](https://bugrakilic.net)*
+*© 2026 [Bugra Kilic](https://bugrakilic.net)*
