@@ -58,6 +58,7 @@ nav:
       - Velocity: 6.3-velocity.md
       - Definition of Done: 6.4-definition-of-done.md
       - Continuous Integration & Delivery: 6.5-continuous-integration-delivery.md
+      - Backlog Refinement: 6.6-backlog-refinement.md
 
   - Agile Metrics:
       - Burndown Chart: 7.1-burndown-chart.md
