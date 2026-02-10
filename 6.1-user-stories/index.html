@@ -1669,26 +1669,31 @@
 <li>Supports iterative development  </li>
 </ul>
 <h2 id="acceptance-criteria">Acceptance Criteria</h2>
-<p>Acceptance Criteria define the conditions that a User Story must satisfy to be considered complete and working from the user's perspective. They provide clarity on the expected behavior and help the Development Team understand what needs to be built.</p>
-<p>Typically, Acceptance Criteria are written as a list of statements, often in a "Given-When-Then" format (also known as Gherkin syntax) to specify a scenario:
-*   <strong>Given</strong> [a context]
-*   <strong>When</strong> [an action is performed]
-*   <strong>Then</strong> [an observable outcome occurs]</p>
-<p>Example for "As a registered user, I want to reset my password so that I can regain access to my account.":
-*   <strong>Given</strong> I am on the password reset page
-*   <strong>And</strong> I enter my registered email address
-*   <strong>When</strong> I click "Send Reset Link"
-*   <strong>Then</strong> I should receive an email with a password reset link
-*   <strong>And</strong> I should see a confirmation message on the page</p>
+<p>Acceptance Criteria are the "definition of done" for a User Story. They are a set of conditions that must be met for the story to be considered complete.</p>
+<p><strong>Purpose:</strong>
+-   Eliminate ambiguity and align understanding.
+-   Define the boundaries of the story.
+-   Provide a basis for testing.</p>
+<p><strong>Common Format (Gherkin Syntax):</strong>
+*   <strong>Given</strong> a specific context.
+*   <strong>When</strong> an action is performed.
+*   <strong>Then</strong> a specific, observable outcome occurs.</p>
+<p><strong>Example:</strong>
+For a password reset story:
+*   <strong>Given</strong> I am on the password reset page,
+*   <strong>When</strong> I enter my registered email and click "Send Reset Link",
+*   <strong>Then</strong> I should see a confirmation message and receive an email with a reset link.</p>
 <h2 id="story-mapping">Story Mapping</h2>
-<p>Story Mapping is a collaborative technique used to visualize the entire user journey of a product and organize user stories into a coherent narrative. It helps teams maintain a holistic view of the product, prioritize features, and plan releases effectively.</p>
-<p>Key aspects of Story Mapping:
-*   <strong>User Activities:</strong> The main steps a user takes to achieve a goal.
-*   <strong>User Tasks:</strong> The specific actions within each activity.
-*   <strong>User Stories:</strong> Detailed descriptions of features that support the tasks.
-*   <strong>Narrative Flow:</strong> Arranging stories horizontally to represent the user's journey over time, and vertically by priority.
-*   <strong>Release Planning:</strong> Drawing "lines" across the map to define minimal viable products (MVPs) or subsequent releases.</p>
-<p>Story Mapping helps teams discover gaps in their understanding, build a shared vision, and ensure that they are delivering value in a user-centric sequence.</p>
+<p>Story Mapping is a visual and collaborative exercise to create a shared understanding of a product's user journey.</p>
+<p><strong>Process:</strong>
+1.  <strong>Map the Journey:</strong> Identify the main activities and steps a user takes (the "narrative flow").
+2.  <strong>Organize Stories:</strong> Place user stories under the corresponding steps.
+3.  <strong>Prioritize:</strong> Arrange stories vertically by priority (high to low).
+4.  <strong>Slice Releases:</strong> Draw lines across the map to define product releases, starting with a Minimal Viable Product (MVP).</p>
+<p><strong>Benefits:</strong>
+-   Visualizes the entire product and user experience.
+-   Helps prioritize work and identify gaps.
+-   Facilitates release planning.</p>
 
 
 
