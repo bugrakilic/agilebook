@@ -32,9 +32,9 @@ nav:
 
   - Scrum Team:
       - Scrum Team Overview: 2.1-scrum-team-overview.md
-      - Product Owner Role: 2.2-product-owner-role.md
-      - Scrum Master Role: 2.3-scrum-master-role.md
-      - Development Team Role: 2.4-development-team-role.md
+      - Product Owner Accountability: 2.2-product-owner-role.md
+      - Scrum Master Accountability: 2.3-scrum-master-role.md
+      - Developers Accountability: 2.4-development-team-role.md
 
   - Scrum Events:
       - Sprint Planning: 3.1-sprint-planning.md
@@ -43,6 +43,7 @@ nav:
       - Sprint Retrospective: 3.4-sprint-retrospective.md
 
   - Scrum Artifacts:
+      - Product Goal: 4.0-product-goal.md
       - Product Backlog: 4.1-product-backlog.md
       - Sprint Backlog: 4.2-sprint-backlog.md
       - Increment: 4.3-increment.md

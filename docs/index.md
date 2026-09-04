@@ -11,9 +11,9 @@ The **Agilebook** is your comprehensive resource for understanding and applying 
 - Popular Agile methodologies (Scrum, Kanban, XP, etc.)
 - Core principles of the Agile Manifesto
 
-### 👥 Scrum Team Roles
+### 👥 Scrum Team Accountabilities
 - Overview of the Scrum Team
-- Product Owner, Scrum Master, and Development Team responsibilities
+- Product Owner, Scrum Master, and Developers accountabilities
 
 ### 🔁 Scrum Events
 - Sprint Planning
