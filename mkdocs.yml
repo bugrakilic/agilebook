@@ -9,6 +9,18 @@ theme:
   font: 
     text: Roboto
     code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
   palette:
     - scheme: default
       primary: indigo
@@ -22,6 +34,21 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
 
 nav:
   - Introduction:

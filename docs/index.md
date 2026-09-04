@@ -6,43 +6,58 @@ The **Agilebook** is your comprehensive resource for understanding and applying 
 
 ## 📚 Contents Overview
 
-### 🧭 Introduction
-- What is Agile and Scrum?
-- Popular Agile methodologies (Scrum, Kanban, XP, etc.)
-- Core principles of the Agile Manifesto
+<div class="grid cards" markdown>
 
-### 👥 Scrum Team Accountabilities
-- Overview of the Scrum Team
-- Product Owner, Scrum Master, and Developers accountabilities
+-   __🧭 Introduction__
 
-### 🔁 Scrum Events
-- Sprint Planning
-- Daily Scrum
-- Sprint Review
-- Sprint Retrospective
+    ---
+    What is Agile and Scrum? Methodologies, Manifesto basics.
 
-### 📦 Scrum Artifacts
-- Product Backlog
-- Sprint Backlog
-- Increment
+    [:octicons-arrow-right-24: What is Agile?](1.1-what-is-agile.md)
 
-### 📜 Agile Manifesto
-- The 4 Agile Values
-- The 12 Agile Principles
-- Origins and overview
+-   __👥 Scrum Team__
 
-### 🔨 Agile Practices
-- User Stories
-- Story Point Estimation
-- Velocity Tracking
-- Definition of Done
-- CI/CD in Agile teams
+    ---
+    One Scrum Team: Product Owner, Scrum Master, Developers.
 
-### 📊 Agile Metrics
-- Burndown and Burnup Charts
-- Cumulative Flow Diagrams
-- Lead Time vs. Cycle Time
-- Retrospective Metrics
+    [:octicons-arrow-right-24: Team overview](2.1-scrum-team-overview.md)
+
+-   __🔁 Scrum Events__
+
+    ---
+    Sprint Planning, Daily Scrum, Review, Retrospective.
+
+    [:octicons-arrow-right-24: Sprint Planning](3.1-sprint-planning.md)
+
+-   __📦 Scrum Artifacts__
+
+    ---
+    Product Goal, Product Backlog, Sprint Backlog, Increment.
+
+    [:octicons-arrow-right-24: Product Goal](4.0-product-goal.md)
+
+-   __📜 Agile Manifesto__
+
+    ---
+    The 4 values, 12 principles, origins.
+
+    [:octicons-arrow-right-24: The 4 values](5.2-the-4-agile-values.md)
+
+-   __🔨 Agile Practices__
+
+    ---
+    User stories, estimation, velocity, DoD, CI/CD.
+
+    [:octicons-arrow-right-24: User stories](6.1-user-stories.md)
+
+-   __📊 Agile Metrics__
+
+    ---
+    Burndown, burnup, CFD, lead/cycle time.
+
+    [:octicons-arrow-right-24: Burndown](7.1-burndown-chart.md)
+
+</div>
 
 ---
 
