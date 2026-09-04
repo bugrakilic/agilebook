@@ -1,5 +1,5 @@
 ---
-id: "1.4-agile-manifesto-principles"
+id: "agile-manifesto-principles"
 title: "Agile Manifesto & Principles"
 category: "Agile Basics"
 tags: ["agile", "manifesto", "principles"]

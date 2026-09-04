@@ -1,5 +1,5 @@
 ---
-id: "3.3-sprint-review"
+id: "sprint-review"
 title: "Sprint Review"
 category: "Scrum Events"
 tags: ["scrum", "events", "sprint review"]

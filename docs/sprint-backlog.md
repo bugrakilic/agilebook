@@ -1,5 +1,5 @@
 ---
-id: "4.2-sprint-backlog"
+id: "sprint-backlog"
 title: "Sprint Backlog"
 category: "Scrum Artifacts"
 tags: ["scrum", "artifacts", "sprint backlog"]

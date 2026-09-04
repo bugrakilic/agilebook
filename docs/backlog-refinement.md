@@ -1,5 +1,5 @@
 ---
-id: "6.6-backlog-refinement"
+id: "backlog-refinement"
 title: "Backlog Refinement"
 category: "Agile Practices"
 tags: ["agile", "practices", "backlog refinement", "backlog grooming"]

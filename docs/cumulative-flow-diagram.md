@@ -1,5 +1,5 @@
 ---
-id: "7.3-cumulative-flow-diagram"
+id: "cumulative-flow-diagram"
 title: "Cumulative Flow Diagram (CFD)"
 category: "Agile Metrics & Reporting"
 tags: ["agile", "metrics", "cumulative flow diagram", "CFD", "reporting"]

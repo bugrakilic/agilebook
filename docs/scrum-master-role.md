@@ -1,5 +1,5 @@
 ---
-id: "2.3-scrum-master-role"
+id: "scrum-master-role"
 title: "Scrum Master Accountability"
 category: "Scrum Team"
 tags: ["scrum", "scrum master", "accountabilities", "facilitation"]

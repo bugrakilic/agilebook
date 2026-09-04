@@ -1,5 +1,5 @@
 ---
-id: "5.2-the-4-agile-values"
+id: "the-4-agile-values"
 title: "The 4 Agile Values"
 category: "Agile Principles & Values"
 tags: ["agile", "values", "manifesto"]

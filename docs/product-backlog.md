@@ -1,5 +1,5 @@
 ---
-id: "4.1-product-backlog"
+id: "product-backlog"
 title: "Product Backlog"
 category: "Scrum Artifacts"
 tags: ["scrum", "artifacts", "product backlog"]

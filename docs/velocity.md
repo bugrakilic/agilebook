@@ -1,5 +1,5 @@
 ---
-id: "6.3-velocity"
+id: "velocity"
 title: "Velocity"
 category: "Agile Practices"
 tags: ["agile", "practices", "velocity"]

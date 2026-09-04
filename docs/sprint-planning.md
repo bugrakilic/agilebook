@@ -1,5 +1,5 @@
 ---
-id: "3.1-sprint-planning"
+id: "sprint-planning"
 title: "Sprint Planning"
 category: "Scrum Events"
 tags: ["scrum", "events", "sprint planning"]

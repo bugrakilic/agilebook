@@ -1,5 +1,5 @@
 ---
-id: "7.2-burnup-chart"
+id: "burnup-chart"
 title: "Burnup Chart"
 category: "Agile Metrics & Reporting"
 tags: ["agile", "metrics", "burnup chart", "reporting"]

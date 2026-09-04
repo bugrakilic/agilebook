@@ -1,5 +1,5 @@
 ---
-id: "2.2-product-owner-role"
+id: "product-owner-role"
 title: "Product Owner Accountability"
 category: "Scrum Team"
 tags: ["scrum", "product owner", "accountabilities"]

@@ -1,5 +1,5 @@
 ---
-id: "1.3-common-agile-methodologies"
+id: "common-agile-methodologies"
 title: "Common Agile Methodologies"
 category: "Agile Basics"
 tags: ["agile", "kanban", "lean", "xp", "safe"]

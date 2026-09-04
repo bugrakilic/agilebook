@@ -1,5 +1,5 @@
 ---
-id: "6.5-continuous-integration-delivery"
+id: "continuous-integration-delivery"
 title: "Continuous Integration & Delivery (CI/CD)"
 category: "Agile Practices"
 tags: ["agile", "practices", "ci/cd", "continuous integration", "continuous delivery"]

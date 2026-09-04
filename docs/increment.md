@@ -1,5 +1,5 @@
 ---
-id: "4.3-increment"
+id: "increment"
 title: "Increment"
 category: "Scrum Artifacts"
 tags: ["scrum", "artifacts", "increment"]

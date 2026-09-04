@@ -1,5 +1,5 @@
 ---
-id: "6.4-definition-of-done"
+id: "definition-of-done"
 title: "Definition of Done"
 category: "Agile Practices"
 tags: ["agile", "practices", "definition of done", "DoD"]

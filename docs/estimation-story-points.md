@@ -1,5 +1,5 @@
 ---
-id: "6.2-estimation-story-points"
+id: "estimation-story-points"
 title: "Estimation & Story Points"
 category: "Agile Practices"
 tags: ["agile", "practices", "estimation", "story points"]

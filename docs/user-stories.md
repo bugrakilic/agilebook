@@ -1,5 +1,5 @@
 ---
-id: "6.1-user-stories"
+id: "user-stories"
 title: "User Stories"
 category: "Agile Practices"
 tags: ["agile", "practices", "user stories", "requirements"]

@@ -11,51 +11,60 @@ The **Agilebook** is your comprehensive resource for understanding and applying 
 -   __🧭 Introduction__
 
     ---
-    What is Agile and Scrum? Methodologies, Manifesto basics.
-
-    [:octicons-arrow-right-24: What is Agile?](1.1-what-is-agile.md)
+    - [What is Agile?](what-is-agile.md)
+    - [What is Scrum?](what-is-scrum.md)
+    - [Common Agile Methodologies](common-agile-methodologies.md)
+    - [Agile Manifesto Principles](agile-manifesto-principles.md)
 
 -   __👥 Scrum Team__
 
     ---
-    One Scrum Team: Product Owner, Scrum Master, Developers.
-
-    [:octicons-arrow-right-24: Team overview](2.1-scrum-team-overview.md)
+    - [Scrum Team Overview](scrum-team-overview.md)
+    - [Product Owner Accountability](product-owner-role.md)
+    - [Scrum Master Accountability](scrum-master-role.md)
+    - [Developers Accountability](developers.md)
 
 -   __🔁 Scrum Events__
 
     ---
-    Sprint Planning, Daily Scrum, Review, Retrospective.
-
-    [:octicons-arrow-right-24: Sprint Planning](3.1-sprint-planning.md)
+    - [Sprint Planning](sprint-planning.md)
+    - [Daily Scrum](daily-scrum.md)
+    - [Sprint Review](sprint-review.md)
+    - [Sprint Retrospective](sprint-retrospective.md)
 
 -   __📦 Scrum Artifacts__
 
     ---
-    Product Goal, Product Backlog, Sprint Backlog, Increment.
-
-    [:octicons-arrow-right-24: Product Goal](4.0-product-goal.md)
+    - [Product Goal](product-goal.md)
+    - [Product Backlog](product-backlog.md)
+    - [Sprint Backlog](sprint-backlog.md)
+    - [Increment](increment.md)
 
 -   __📜 Agile Manifesto__
 
     ---
-    The 4 values, 12 principles, origins.
-
-    [:octicons-arrow-right-24: The 4 values](5.2-the-4-agile-values.md)
+    - [Manifesto Overview](agile-manifesto-overview.md)
+    - [The 4 Agile Values](the-4-agile-values.md)
+    - [The 12 Agile Principles](the-12-agile-principles.md)
 
 -   __🔨 Agile Practices__
 
     ---
-    User stories, estimation, velocity, DoD, CI/CD.
-
-    [:octicons-arrow-right-24: User stories](6.1-user-stories.md)
+    - [User Stories](user-stories.md)
+    - [Estimation & Story Points](estimation-story-points.md)
+    - [Velocity](velocity.md)
+    - [Definition of Done](definition-of-done.md)
+    - [Continuous Integration & Delivery](continuous-integration-delivery.md)
+    - [Backlog Refinement](backlog-refinement.md)
 
 -   __📊 Agile Metrics__
 
     ---
-    Burndown, burnup, CFD, lead/cycle time.
-
-    [:octicons-arrow-right-24: Burndown](7.1-burndown-chart.md)
+    - [Burndown Chart](burndown-chart.md)
+    - [Burnup Chart](burnup-chart.md)
+    - [Cumulative Flow Diagram](cumulative-flow-diagram.md)
+    - [Lead Time vs Cycle Time](lead-time-cycle-time.md)
+    - [Retrospective Metrics](retrospective-metrics.md)
 
 </div>
 

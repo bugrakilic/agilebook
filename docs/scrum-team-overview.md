@@ -1,5 +1,5 @@
 ---
-id: "2.1-scrum-team-overview"
+id: "scrum-team-overview"
 title: "Scrum Team Overview"
 category: "Scrum Team"
 tags: ["scrum", "team", "accountabilities", "developers"]

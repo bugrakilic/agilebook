@@ -1,5 +1,5 @@
 ---
-id: "5.3-the-12-agile-principles"
+id: "the-12-agile-principles"
 title: "The 12 Agile Principles"
 category: "Agile Principles & Values"
 tags: ["agile", "principles", "manifesto"]

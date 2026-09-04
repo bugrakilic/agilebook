@@ -1,5 +1,5 @@
 ---
-id: "5.1-agile-manifesto-overview"
+id: "agile-manifesto-overview"
 title: "Agile Manifesto Overview"
 category: "Agile Principles & Values"
 tags: ["agile", "manifesto", "principles", "values"]

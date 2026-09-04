@@ -1,5 +1,5 @@
 ---
-id: "4.0-product-goal"
+id: "product-goal"
 title: "Product Goal"
 category: "Scrum Artifacts"
 tags: ["scrum", "artifacts", "product goal", "commitment"]

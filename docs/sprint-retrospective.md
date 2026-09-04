@@ -1,5 +1,5 @@
 ---
-id: "3.4-sprint-retrospective"
+id: "sprint-retrospective"
 title: "Sprint Retrospective"
 category: "Scrum Events"
 tags: ["scrum", "events", "retrospective"]

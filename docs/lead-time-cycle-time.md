@@ -1,5 +1,5 @@
 ---
-id: "7.4-lead-time-cycle-time"
+id: "lead-time-cycle-time"
 title: "Lead Time & Cycle Time"
 category: "Agile Metrics & Reporting"
 tags: ["agile", "metrics", "lead time", "cycle time", "reporting"]

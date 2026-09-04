@@ -1,5 +1,5 @@
 ---
-id: "2.4-developers-accountability"
+id: "developers"
 title: "Developers Accountability"
 category: "Scrum Team"
 tags: ["scrum", "developers", "accountabilities", "collaboration"]

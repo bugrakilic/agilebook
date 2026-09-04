@@ -1,5 +1,5 @@
 ---
-id: "3.2-daily-scrum"
+id: "daily-scrum"
 title: "Daily Scrum"
 category: "Scrum Events"
 tags: ["scrum", "events", "daily scrum"]

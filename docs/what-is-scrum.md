@@ -1,5 +1,5 @@
 ---
-id: "1.2-what-is-scrum"
+id: "what-is-scrum"
 title: "What is Scrum?"
 category: "Agile Basics"
 tags: ["scrum", "agile", "framework"]

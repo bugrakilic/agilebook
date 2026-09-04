@@ -1,5 +1,5 @@
 ---
-id: "1.1-what-is-agile"
+id: "what-is-agile"
 title: "What is Agile?"
 category: "Agile Basics"
 tags: ["agile", "introduction"]

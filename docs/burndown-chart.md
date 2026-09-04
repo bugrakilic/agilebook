@@ -1,5 +1,5 @@
 ---
-id: "7.1-burndown-chart"
+id: "burndown-chart"
 title: "Burndown Chart"
 category: "Agile Metrics & Reporting"
 tags: ["agile", "metrics", "burndown chart", "reporting"]

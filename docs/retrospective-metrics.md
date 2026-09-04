@@ -1,5 +1,5 @@
 ---
-id: "7.5-retrospective-metrics"
+id: "retrospective-metrics"
 title: "Retrospective Metrics"
 category: "Agile Metrics & Reporting"
 tags: ["agile", "metrics", "retrospective", "continuous improvement"]
