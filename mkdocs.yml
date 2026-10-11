@@ -1,7 +1,7 @@
 site_name: Agilebook
 site_description: Agile and Scrum knowledge base
 site_author: Bugra Kilic
-site_url: https://bugrakilic.github.io/agilebook
+site_url: https://agilebook.bugrakilic.net
 theme:
   name: material
   logo: images/agilebook.png
